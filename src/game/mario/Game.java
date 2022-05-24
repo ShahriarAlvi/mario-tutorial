@@ -184,5 +184,5 @@ public class Game extends Canvas implements Runnable {
 
 }
 
-//ebar thik hoise lagtese
+//ebar thik hoise lagtese heh
 
