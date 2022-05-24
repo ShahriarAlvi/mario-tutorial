@@ -19,8 +19,10 @@ public abstract class Entity {
 	public int facing = 0; // 0 left, 1 right
 	
 
+	//askjdhasjkdhasjkhdaskd
+	
 	public int velX, velY;
-
+//adshajkdask
 	public Id id;
 
 	public Handler handler;

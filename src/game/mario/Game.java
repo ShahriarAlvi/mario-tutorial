@@ -183,3 +183,6 @@ public class Game extends Canvas implements Runnable {
 	}
 
 }
+
+
+//bhai abar ki shomossha hoilo
